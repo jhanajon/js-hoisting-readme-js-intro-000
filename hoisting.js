@@ -20,12 +20,12 @@ function callMe() {
   // fix the code in here:
   // thisIsCrazy() {
 
+function crazy() {
 
 thisIsCrazy();
-function crazy() {
+
 var thisIsCrazy = function thisIsCrazy() {
     console.log("hey!!!");
-  }
 }
 
 
