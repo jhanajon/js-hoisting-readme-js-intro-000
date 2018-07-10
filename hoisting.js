@@ -28,10 +28,6 @@ function callMe() {
 //   console.log("time to eat cake!");
 // }
 
-//function crazy() {
-  // fix the code in here:
-  // thisIsCrazy() {
-
 function crazy() {
   // fix the code in here:
 thisIsCrazy();
