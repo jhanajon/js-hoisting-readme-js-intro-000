@@ -1,31 +1,30 @@
 callMe();
-var lyric = "maybe";
+
 function callMe() {
   console.log("I just met you...");
   console.log("and this is crazy..");
   console.log("but here's my number..");
   console.log("so call me");
+  var lyric = "maybe";
   return lyric;
 }
 
-//from html page samples
+
 // eat();
 //
 // var eat = function(){
 //   console.log("time to eat cake!");
 // }
-
-
 //function crazy() {
   // fix the code in here:
   // thisIsCrazy() {
 
-function crazy() {
 
 thisIsCrazy();
-
+function crazy() {
 var thisIsCrazy = function thisIsCrazy() {
     console.log("hey!!!");
+  }
 }
 
 
