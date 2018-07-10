@@ -21,12 +21,13 @@ function callMe() {
 //   return lyric;
 // }
 
-
+//from html Instructions
 // eat();
 //
 // var eat = function(){
 //   console.log("time to eat cake!");
 // }
+
 //function crazy() {
   // fix the code in here:
   // thisIsCrazy() {
